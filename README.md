@@ -18,5 +18,4 @@ The detailed information of exemplary BIM models in folder M1 is shown in the Ta
 |M1_R-MR|Relationship modified in R|Instance|Modify the top level of 4 columns|O|
 
 <sup>a</sup> P, A, R means property data, appearance data, relationship data respectively.
-
 <sup>b</sup> O and X means the change is meaningful and meaningless respectively.
