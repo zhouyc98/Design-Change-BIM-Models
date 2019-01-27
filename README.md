@@ -3,7 +3,7 @@ These exemplary BIM models can be used as test cases, for further development an
 
 The detailed information of exemplary BIM models in folder M1 is shown in the Table below.
 
-|Model Name|Category of Data change <sup>a</sup>|Level of Design Change|Description of Changes|Meaningful <sup>b</sup>|
+|Model Name|Category of Data change<sup>a</sup>|Level of Design Change|Description of Changes|Meaningful<sup>b</sup>|
 |:--|:--|:--|:--|:--|
 |M1|-|-|The origin model|O|
 |M1_All-A|Added in P, A and R|Instance|Add 2 beams and 2 columns (new category)|O|
@@ -18,4 +18,5 @@ The detailed information of exemplary BIM models in folder M1 is shown in the Ta
 |M1_R-MR|Relationship modified in R|Instance|Modify the top level of 4 columns|O|
 
 <sup>a</sup> P, A, R means property data, appearance data, relationship data respectively.
+
 <sup>b</sup> O and X means the change is meaningful and meaningless respectively.
