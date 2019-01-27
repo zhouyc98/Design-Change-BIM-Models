@@ -5,8 +5,8 @@ The detailed information of exemplary BIM models in folder M1 is shown in the Ta
 
 |Model Name|Category of Data change<sup>a</sup>|Level of Design Change|Description of Changes|Meaningful<sup>b</sup>|
 |:--|:--|:--|:--|:--|
-|M1|-|-|The origin model|O|
-|M1_All-A|Added in P, A and R|Instance|Add 2 beams and 2 columns (new category)| |
+|M1|-|-|The origin model| |
+|M1_All-A|Added in P, A and R|Instance|Add 2 beams and 2 columns (new category)|O|
 |M1_All-D|Deleted in P, A and R|Instance|Delete 2 beams and 4 columns|O|
 |M1_All-DA(M)|Deleted and then added in P, A and R|Model|Delete 2 beams and 4 columns and recreate them|X|
 |M1_A-MG|Geometry modified in A|Instance|Modify the sectional dimensions of 2 beams|O|
