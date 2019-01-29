@@ -1,7 +1,21 @@
 # Design-Change-BIM-Models
-These exemplary BIM models can be used as test cases, for further development and validation of relevant methods and tools.
 
-The detailed information of exemplary BIM models in folder M1 is shown in the Table below.
+This repo contains testing BIM models for the paper entitled "Classification and Exemplary BIM Models Development of Design Changes".
+Use the following data to reference this repo or the paper:
+Lin, J., Zhou, Y., Zhang, J. and Hu, Z., Classification and Exemplary BIM Models Development of Design Changes. International Symposium on Automation and Robotics in Construction, 2019. (submitted)
+
+# Background and Objectives
+
+Detection of design changes is essential for collaboration and version management in the design process of buildings. However, current detection methods based on Building Information Modeling (BIM) usually cause unreliable or meaningless results. This is because most of the current researches look at the question from a data change view, which sometimes is meaningless from a designer’s view. 
+To overcome this problem, this paper first classifies and identifies meaningful design changes from a designer's view, and develops exemplary BIM models of typical design changes. The test of two BIM tools (Autodesk BIM360 and IFCdiff) with developed BIM models shows that the detection results for changes at instance level are perfect while detection results for type and model level still need to be further improved. 
+
+# Contributions
+
+This work contributes a new view and classification method of design changes, and also sets up a baseline model database for further development and validation of relevant methods and tools.
+
+# Information of Models
+
+Folder M1 contains two folders IFC and RVT, both of which have 11 BIM models (the contents of the files have the same name are the same). The detailed information of exemplary BIM models in folder M1 is shown in the Table below.
 
 |Model Name|Category of Data change<sup>a</sup>|Level of Design Change|Description of Changes|Meaningful<sup>b</sup>|
 |:--|:--|:--|:--|:--|
