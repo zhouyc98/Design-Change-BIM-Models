@@ -1,5 +1,6 @@
 # Background  
 This folder contains 11 BIM models, one of them is the original model (i.e., M1), and the other 10 are derived models that include only one type of change from the original model. M1 is a simple structure frame, the following figure shows a screenshot of it.  
+The version of Revit files is Revit 2018, the version of IFC files is IFC 2x3.   
 
 ![image](https://github.com/Zhou-Yucheng/Design-Change-BIM-Models/blob/master/images/M1-screenshot.png)
 
@@ -20,7 +21,7 @@ The following table shows the design change information of this group of BIM mod
 |M1_R-MI(M)|Instance modified in R|Model|Modify the elevation of a level (Level3)|
 |M1_R-MR|Relationship modified in R|Instance|Modify the top level of 4 columns|
 
-<sup>a</sup> P, A, R means property data, appearance data, relationship data respectively.   
+<sup>a</sup> P, A, R means Property data, Appearance data, Relationship data respectively.   
   
   
 The following figure shows the design change information of this group of BIM model.  
