@@ -9,16 +9,19 @@ Lin, J. R., Zhou, Y. C., Zhang, J. P., & Hu, Z. Z. (2019). Classification and Ex
 # Background and Objectives
 
 Detection of design changes is essential for collaboration and version management in the design process of buildings. However, current detection methods based on Building Information Modeling (BIM) usually cause unreliable or meaningless results. This is because most of the current researches look at the question from a data change view, which sometimes is meaningless from a designer’s view.  
-To overcome this problem, this paper first classifies and identifies meaningful design changes from a designer's view, and develops exemplary BIM models of typical design changes. The test of two BIM tools (Autodesk BIM360 and IFCdiff) with developed BIM models shows that the detection results for changes at instance level are perfect while detection results for type and model level still need to be further improved. 
+To overcome this problem, this research classifies and identifies meaningful (semantic) design changes from a designer's view, and develops exemplary BIM models of typical design changes. The test of two BIM tools (Autodesk BIM360 and IFCdiff) with developed BIM models shows that the detection results for changes at instance level are perfect while detection results for type and model level still need to be further improved. 
 
 # Contributions
 
 This work contributes a new definition of design changes and an approach to efficient design change detection with hash-code-based acceleration, and also sets up a baseline model database for further development and validation of relevant methods and tools.
 
 # Information of Models
-Folder M1, M2, and M3 contain three groups of BIM models, where each group of BIM models has 11 models: one of them is the original model, and the other 10 are derived models that include only one type of change from the original model. The names of the original models of these three groups are M1, M2, and M3. M1 is a simple structure frame; M2 is an example house and contains architectural and structural building information; and M3 is a Revit sample project named [rac_advanced_sample_project](http://www.autodesk.com/revit-rac-advanced-sample-project-2018-enu).  
-Folder M4 contains 10 pair of BIM models, where each pair contains one original model named M4 and another changed model. M4 is an architectural model of a classroom building of a primary school. This group of BIM models is used to compare the detection performances of designers and the detection methods. 
-Each folder (M1 - M4) contains a README for their desctiptions and change records, and may contain an "IFC" folder which stores some models in IFC format.
+
+Folder M1, M2, and M3 contain three groups of BIM models, where each group of BIM models has 11 models: one of them is the original model, and the other 10 are derived models that include only one type of change from the original model. The names of the original models of these three groups are M1, M2, and M3. M1 is a simple structure frame; M2 is an example house and contains architectural and structural building information; and M3 is a Revit sample project named [rac_advanced_sample_project](http://www.autodesk.com/revit-rac-advanced-sample-project-2018-enu).   
+Each folder (M1, M2, and M3) contains:
+- a README for their desctiptions and change records
+- 11 Revit models (Revit 2018)
+- an "IFC" folder which stores some models in IFC format (IFC 2x3).
 
 The following table shows the design change information of the three groups of BIM models M1 - M3. It is also the naming rule for models in M1 - M3.  
 
