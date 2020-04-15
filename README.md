@@ -3,8 +3,8 @@
 This repo contains testing BIM models for the paper entitled "Classification and Exemplary BIM Models Development of Design Changes" and "Semantic Classification and Hash Code Accelerated Detection of Design Changes in BIM Models".   
 
 Use the following data to reference this repo or the paper:  
-Lin, J. R., Zhou, Y. C., Zhang, J. P., & Hu, Z. Z. (2019). Classification and Exemplary BIM Models Development of Design Changes. ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, 36, 122–127.
-Lin, J.-R., & Zhou, Y.-C. (2020). Semantic classification and hash code accelerated detection of design changes in BIM models. Automation in Construction, 115, 103212. https://doi.org/10.1016/j.autcon.2020.103212
+Lin, J. R., Zhou, Y. C., Zhang, J. P., & Hu, Z. Z. (2019). Classification and Exemplary BIM Models Development of Design Changes. ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction, 36, 122–127.   
+Lin, J.-R., & Zhou, Y.-C. (2020). Semantic classification and hash code accelerated detection of design changes in BIM models. Automation in Construction, 115, 103212. https://doi.org/10.1016/j.autcon.2020.103212  
 
 
 # Background and Objectives
